@@ -1,5 +1,8 @@
 .App {
-  text-align: center;
+  /*text-align: center;*/
+  font-family: 'Courier New', Courier, monospace;
+  color: var(--secondary-text-color);
+  line-height: 1.4rem;
 }
 
 .App-logo {
@@ -36,3 +39,5 @@
     transform: rotate(360deg);
   }
 }
+
+
